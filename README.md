@@ -10,4 +10,4 @@ Hello Bangalore
 Changed the code in BI and updated the CMS sheet to refelect 50% offer 
 
 FUN-2
-
+Changed code as per request FUN-2 and FUN-1
