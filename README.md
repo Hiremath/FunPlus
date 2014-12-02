@@ -17,3 +17,5 @@ FUN-3
 Change of AB test values 
 
 Add a design to FUN-12
+
+#FUN-1 and #FUN-2 are fixed
