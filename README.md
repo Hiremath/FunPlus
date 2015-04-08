@@ -23,4 +23,5 @@ Add a design to FUN-12
 Hello MH  issue # FUN-1
 
 Issue #FUN-1, story 1 fixed
+Issue #FUN-10, FUN-9  , issues are fixed 
 
